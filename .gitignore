@@ -1,0 +1,6 @@
+# Ignore generated Flowise structure file
+flowise_project_structure.txt
+build
+node_modules
+.turbo
+*.txt
